@@ -26,7 +26,7 @@ Python, TensorFlow/Keras, NumPy, Matplotlib, Convolutional Neural Networks (CNN)
 
 ## 📊 Model Performance
 
-(The model achieved approximately XX% validation accuracy.)
+(The model achieved approximately 98.1% validation accuracy.)
 
 ---
 
